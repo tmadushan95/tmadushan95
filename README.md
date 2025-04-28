@@ -26,8 +26,6 @@
 
 - 💬 Ask me about **.NET Core, ReactJS, Azure, Docker, Microservices**
 
-- 📫 Feel free to reach me out at **tharindu.mpeiris@gmail.com**
-
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
